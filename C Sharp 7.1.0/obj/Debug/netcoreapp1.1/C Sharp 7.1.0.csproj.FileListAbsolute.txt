@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\bin\Debug\netcoreapp1.1\C Sharp 7.1.0.deps.json
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\bin\Debug\netcoreapp1.1\C Sharp 7.1.0.runtimeconfig.json
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\bin\Debug\netcoreapp1.1\C Sharp 7.1.0.runtimeconfig.dev.json
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\bin\Debug\netcoreapp1.1\C Sharp 7.1.0.dll
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\bin\Debug\netcoreapp1.1\C Sharp 7.1.0.pdb
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\obj\Debug\netcoreapp1.1\C Sharp 7.1.0.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\obj\Debug\netcoreapp1.1\C Sharp 7.1.0.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\obj\Debug\netcoreapp1.1\C Sharp 7.1.0.AssemblyInfo.cs
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\obj\Debug\netcoreapp1.1\C Sharp 7.1.0.dll
+C:\Users\domin\source\repos\C Sharp 7.1.0\C Sharp 7.1.0\obj\Debug\netcoreapp1.1\C Sharp 7.1.0.pdb
